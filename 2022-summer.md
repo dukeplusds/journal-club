@@ -1,5 +1,5 @@
 
-Machine Learning Journal Club, Summer 2022
+Machine Learning Journal Club, Summer 2022  
 Led by Dr. Ricardo Henao with members of the Health Data Science (HDS) summer program
 
 We invite any Duke summer program students to join. Participants are expected to read the papers prior to each session, then a presenter will review the paper and a discussant will moderate a question & answer format.
